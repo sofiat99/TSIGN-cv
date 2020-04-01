@@ -1,2 +1,7 @@
-# TSIGN-cv
-Reconocimiento de lenguaje de señas por medio de vídeos.
+# TSIGN
+
+* Diana Sofía Torres Carreño
+* Sebastián García Florez
+* Yeison Arjemiro Valencia Goméz
+* Daniel Felipe Ardila Gómez
+
