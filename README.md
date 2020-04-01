@@ -1,6 +1,8 @@
 # TSIGN
 
 * ### link vídeo : https://www.youtube.com/watch?v=AGOJ_qRG0Rc 
+* ### Diapositivas CV : https://www.canva.com/design/DAD2Miim4sA/pYWPy7DXEthvX7kdLFmzrA/view?utm_content=DAD2Miim4sA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 
 <img src="Banner.jpeg" width="500%"/> 
 
