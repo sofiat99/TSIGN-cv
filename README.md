@@ -5,4 +5,4 @@
 * Yeison Arjemiro Valencia Goméz
 * Daniel Felipe Ardila Gómez
 
-<img src="Banner.jpeg" width="350"/> 
+<img src="Banner.jpeg" width="500%"/> 
